@@ -47,6 +47,7 @@ int main(void) {
     int i, j, d, aux, modulacao, modMF, totalNumSlots;
     d=totalNumSlots=0;
 
+    srand(time(NULL));
 
     printf("Digite o valor do Gbps usado para os links : ");
     scanf("%d", &d);
