@@ -1,0 +1,23 @@
+
+Formato de Modulação Usado nos Links: 1 -> 2 : 8QAM
+Formato de Modulação Usado nos Links: 1 -> 4 : 8QAM
+Formato de Modulação Usado nos Links: 2 -> 1 : QPSK
+Formato de Modulação Usado nos Links: 2 -> 3 : QPSK
+Formato de Modulação Usado nos Links: 3 -> 2 : 8QAM
+Formato de Modulação Usado nos Links: 3 -> 4 : QPSK
+Formato de Modulação Usado nos Links: 4 -> 1 : BPSK
+Formato de Modulação Usado nos Links: 4 -> 3 : BPSK
+
+
+
+Número Slots Usados no Link: 1 -> 2 : 3
+Número Slots Usados no Link: 1 -> 4 : 3
+Número Slots Usados no Link: 2 -> 1 : 4
+Número Slots Usados no Link: 2 -> 3 : 4
+Número Slots Usados no Link: 3 -> 2 : 3
+Número Slots Usados no Link: 3 -> 4 : 4
+Número Slots Usados no Link: 4 -> 1 : 8
+Número Slots Usados no Link: 4 -> 3 : 8
+
+Total de Slots Utilizado : 37
+
